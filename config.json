@@ -16,14 +16,14 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
-      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/mcfsermons/home",
+      "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
       "redirect_url": ""
     }
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-3940256099942544",
@@ -60,24 +60,29 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.solodroid.net"
+      "social_url": "https://mcfsermons.256cloud.com/",
+      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
+      "social_name": "AUDIO SERMONS (Opens in your Phone Chrome Browser)"
     },
     {
-      "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
+      "social_url": "https://mcfsermons.256cloud.com/mcf-caster-fm-stream/",
+      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
+      "social_name": "MCF Caster FM Stream"
     },
     {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_url": "https://www.facebook.com/mutundwechristianfellowship",
+      "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
+      "social_name": "MCF Facebook Page"
     },
     {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_url": "https://www.youtube.com/@iive-elon.musk24/streams",
+      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+      "social_name": "MCF YouTube Channel"
+    },
+    {
+      "social_url": "https://chat.whatsapp.com/GHqNbRXC90mLVOW3o5gzFr",
+      "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
+      "social_name": "Join Whatsapp Audio Group"
     }
   ]
 }
