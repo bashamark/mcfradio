@@ -1,14 +1,14 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
-      "radio_url": "http://86.107.235.38:9000/smartnroll",
-      "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
-      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
+      "radio_name": "MCF Radio Sermons",
+      "radio_genre": "Gospel Radio",
+      "radio_url": "https://streams.radio.co/s79fbbb432/listen",
+      "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
+      "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
 	  "blur_radio_background": "false",
       "song_metadata": "true",
-      "image_album_art": "true",
+      "image_album_art": "false",
 	  "image_album_art_dynamic_background": "true",
 	  "auto_play": "false"
     }
@@ -16,8 +16,8 @@
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
-	  "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/mcfsermons/home",
+	  "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
 	  "redirect_url": ""
     }
   ],
@@ -26,11 +26,11 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_publisher_id": "pub-9523725970329735",
+      "admob_banner_unit_id": "ca-app-pub-9523725970329735/1582777730",
+      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951779",
+      "admob_native_unit_id": "ca-app-pub-9523725970329735/3418501959",
+      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/1694103157",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -60,15 +60,35 @@
   ],
   "socials": [
     {
-      "social_name": "Website",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.solodroid.net"
-    },
-    {
-      "social_name": "Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
-    },
+            "social_url": "https://mcfsermons.256cloud.com/",
+            "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
+            "social_name": "AUDIO SERMONS (Opens in your Phone Chrome Browser)"
+        },
+        {
+            "social_url": "https://mcfsermons.256cloud.com/mcf-caster-fm-stream/",
+            "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
+            "social_name": "MCF Caster FM Stream"
+        },
+        {
+            "social_url": "https://www.facebook.com/mutundwechristianfellowship",
+            "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
+            "social_name": "MCF Facebook Page"
+        },
+        {
+            "social_url": "https://www.youtube.com/@iive-elon.musk24/streams",
+            "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+            "social_name": "MCF YouTube Channel"
+        },
+        {
+            "social_url": "https://chat.whatsapp.com/GHqNbRXC90mLVOW3o5gzFr",
+            "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
+            "social_name": "Join Whatsapp Audio Group"
+        },
+        {
+            "social_url": "https://play.google.com/store/apps/details?id=com.gospel.ug",
+            "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
+            "social_name": "Download Uganda Gospel Music App"
+        },
     {
       "social_name": "Twitter",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
