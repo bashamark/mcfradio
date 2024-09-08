@@ -1,29 +1,29 @@
 {
   "radio": [
     {
-      "radio_name": "Dr Charles Stanley Radio",
-      "radio_genre": "Gospel Radio",
-      "radio_url": "https://23113.live.streamtheworld.com/ITRN.mp3",
-      "radio_image_url": "https://i.ibb.co/C6CbcnT/1721407596-charles-stanley.jpg",
-      "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
-      "blur_radio_background": "true",
+      "radio_name": "Your Single Radio",
+      "radio_genre": "World",
+      "radio_url": "http://86.107.235.38:9000/smartnroll",
+      "radio_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-image.jpg",
+      "background_image_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/radio-background.gif",
+	  "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
-      "image_album_art_dynamic_background": "true",
-      "auto_play": "false"
+	  "image_album_art_dynamic_background": "true",
+	  "auto_play": "false"
     }
   ],
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/mcfsermons/home",
-      "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
-      "redirect_url": ""
+      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
+	  "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+	  "redirect_url": ""
     }
   ],
   "ads": [
     {
-      "ad_status": "0",
+      "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
       "admob_publisher_id": "pub-3940256099942544",
@@ -60,29 +60,24 @@
   ],
   "socials": [
     {
-      "social_url": "https://mcfsermons.256cloud.com/",
-      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
-      "social_name": "AUDIO SERMONS (Opens in your Phone Chrome Browser)"
+      "social_name": "Website",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
+      "social_url": "https://www.solodroid.net"
     },
     {
-      "social_url": "https://mcfsermons.256cloud.com/mcf-caster-fm-stream/",
-      "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
-      "social_name": "MCF Caster FM Stream"
+      "social_name": "Facebook",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
+      "social_url": "https://www.facebook.com/solodroid.net"
     },
     {
-      "social_url": "https://www.facebook.com/mutundwechristianfellowship",
-      "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
-      "social_name": "MCF Facebook Page"
+      "social_name": "Twitter",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
+      "social_url": "https://twitter.com/solodroiddev"
     },
     {
-      "social_url": "https://www.youtube.com/@iive-elon.musk24/streams",
-      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-      "social_name": "MCF YouTube Channel"
-    },
-    {
-      "social_url": "https://chat.whatsapp.com/GHqNbRXC90mLVOW3o5gzFr",
-      "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-      "social_name": "Join Whatsapp Audio Group"
+      "social_name": "Instagram",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
+      "social_url": "https://www.instagram.com/solodroid.developer"
     }
   ]
 }
