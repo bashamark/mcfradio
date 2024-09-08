@@ -7,7 +7,7 @@
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
 	  "blur_radio_background": "false",
-      "song_metadata": "true",
+      "song_metadata": "false",
       "image_album_art": "false",
 	  "image_album_art_dynamic_background": "true",
 	  "auto_play": "false"
