@@ -1,7 +1,7 @@
 {
   "radio": [
     {
-      "radio_name": "MCF Radio 98.7f",
+      "radio_name": "MCF Radio 98.7fm",
       "radio_genre": "Gospel Radio",
       "radio_url": "https://streams.radio.co/s79fbbb432/listen",
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
@@ -82,7 +82,7 @@
         {
             "social_url": "https://chat.whatsapp.com/GHqNbRXC90mLVOW3o5gzFr",
             "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-            "social_name": "Join Whatsapp Audio"
+            "social_name": "Join Whatsapp Audio Group"
         },
         {
             "social_url": "https://play.google.com/store/apps/details?id=com.gospel.ug",
