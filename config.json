@@ -1,7 +1,7 @@
 {
   "radio": [
     {
-      "radio_name": "MCF Radio Sermons",
+      "radio_name": "MCF Radio 98.7fm",
       "radio_genre": "Gospel Radio",
       "radio_url": "https://streams.radio.co/s79fbbb432/listen",
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
@@ -88,16 +88,6 @@
             "social_url": "https://play.google.com/store/apps/details?id=com.gospel.ug",
             "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
             "social_name": "Download Uganda Gospel Music App"
-        },
-    {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
-    },
-    {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
-    }
+        }
   ]
 }
