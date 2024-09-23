@@ -28,9 +28,9 @@
       "backup_ads": "none",
       "admob_publisher_id": "pub-9523725970329735",
       "admob_banner_unit_id": "ca-app-pub-9523725970329735/1582777730",
-      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951779",
+      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951000",
       "admob_native_unit_id": "ca-app-pub-9523725970329735/3418501959",
-      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/3191988829",
+      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/3191988000",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -55,7 +55,7 @@
       "wortise_interstitial_unit_id": "test-interstitial",
       "wortise_native_unit_id": "test-native",
       "wortise_app_open_ad_unit_id": "test-app-open",
-      "interstitial_ad_interval": 2
+      "interstitial_ad_interval": 0
     }
   ],
   "socials": [
