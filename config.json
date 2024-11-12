@@ -78,16 +78,8 @@
             "social_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
             "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
             "social_name": "MCF YouTube Channel"
-        },
-        {
-            "social_url": "https://chat.whatsapp.com/G3sOrvXGRBj7LytFRl4NdJ",
-            "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-            "social_name": "Join Whatsapp Audio Group"
-        },
-        {
-            "social_url": "https://play.google.com/store/apps/details?id=com.gospel.ug",
-            "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-            "social_name": "Download Uganda Gospel Music App"
         }
+        
+        
   ]
 }
