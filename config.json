@@ -69,6 +69,12 @@
             "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
             "social_name": "Join Whatsapp Audios Group"
         },
+
+	  {
+            "social_url": "http://play.google.com/store/apps/details?id=com.gospel.ug",
+            "social_icon": "https://i.ibb.co/Xk7dPmZ/musical-note.png",
+            "social_name": "Download Uganda Gospel Music App"
+        },
         
         {
             "social_url": "https://www.facebook.com/mutundwechristianfellowship",
