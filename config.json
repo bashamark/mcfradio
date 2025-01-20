@@ -3,7 +3,7 @@
     {
       "radio_name": "MCF Radio 98.7fm",
       "radio_genre": "Gospel Radio",
-      "radio_url": "https://streams.radio.co/s79fbbb432/listen",
+      "radio_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
       "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
 	  "blur_radio_background": "false",
@@ -69,7 +69,8 @@
             "social_icon": "https://i.ibb.co/PWCTq4r/whatsapp.png",
             "social_name": "Join Whatsapp Audios Group"
         },
-
+
+
         
         {
             "social_url": "https://www.facebook.com/mutundwechristianfellowship",
