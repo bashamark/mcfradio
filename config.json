@@ -1,99 +1,33 @@
 {
-  "radio": [
-    {
-      "radio_name": "MCF Radio 98.7fm",
-      "radio_genre": "Gospel Radio",
-      "radio_url": "https://streams.radio.co/s79fbbb432/listen",
-      "radio_image_url": "https://i.ibb.co/rvQ9QB5/mcf-logo.png",
-      "background_image_url": "https://i.ibb.co/HPzDh8D/mcf-back2.jpg",
-	  "blur_radio_background": "false",
-      "song_metadata": "false",
-      "image_album_art": "false",
-	  "image_album_art_dynamic_background": "true",
-	  "auto_play": "false"
-    }
-  ],
-  "settings": [
-    {
-      "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/mcfsermons/home",
-	  "more_apps_url": "https://play.google.com/store/apps/dev?id=7118097138380275091",
-	  "redirect_url": ""
-    }
-  ],
-  "ads": [
-    {
-      "ad_status": "1",
-      "ad_type": "admob",
-      "backup_ads": "none",
-      "admob_publisher_id": "pub-9523725970329735",
-      "admob_banner_unit_id": "ca-app-pub-9523725970329735/1582777730",
-      "admob_interstitial_unit_id": "ca-app-pub-9523725970329735/7136951000",
-      "admob_native_unit_id": "ca-app-pub-9523725970329735/3418501959",
-      "admob_app_open_ad_unit_id": "ca-app-pub-9523725970329735/4458437642",
-      "ad_manager_banner_unit_id": "/6499/example/banner",
-      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-      "ad_manager_native_unit_id": "/6499/example/native",
-      "ad_manager_app_open_ad_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
-      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
-      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
-      "startapp_app_id": "0",
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
-      "applovin_banner_ad_unit_id": "0",
-      "applovin_interstitial_ad_unit_id": "0",
-      "applovin_native_ad_manual_unit_id": "0",
-      "applovin_banner_zone_id": "0",
-      "applovin_interstitial_zone_id": "0",
-      "ironsource_app_key": "85460dcd",
-      "ironsource_banner_placement_name": "DefaultBanner",
-      "ironsource_interstitial_placement_name": "DefaultInterstitial",
-      "wortise_app_id": "test-app-id",
-      "wortise_banner_unit_id": "test-banner",
-      "wortise_interstitial_unit_id": "test-interstitial",
-      "wortise_native_unit_id": "test-native",
-      "wortise_app_open_ad_unit_id": "test-app-open",
-      "interstitial_ad_interval": 0
-    }
-  ],
-  "socials": [
-    {
-            "social_url": "https://www.youtube.com/@MCFSermons/videos",
-            "social_icon": "https://i.ibb.co/qRpgCNm/world-wide-web.png",
-            "social_name": "Audio sermons"
-        },
-	  {
-            "social_url": "https://chat.whatsapp.com/BCfLuMnlKXDKFnd77y6w16",
-            "social_icon": "https://i.ibb.co/PWCTq4r/whatsapp.png",
-            "social_name": "Join Whatsapp Audios Group"
-        },
-	  {
-            "social_url": "https://eternallifetv.online.church/",
-            "social_icon": "https://i.ibb.co/dQ32kRw/eternal-life-64.png",
-            "social_name": "Eternal Life TV"
-        },
-
-	  
-        {
-            "social_url": "https://www.facebook.com/mutundwechristianfellowship",
-            "social_icon": "https://i.ibb.co/QcLdfHL/facebook.png",
-            "social_name": "MCF Facebook Page"
-        },
-        {
-            "social_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
-            "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-            "social_name": "MCF YouTube Channel"
-        },
-	
-
-	  {
-            "social_url": "http://play.google.com/store/apps/details?id=com.gospel.ug",
-            "social_icon": "https://i.ibb.co/qgz4TC8/64-ug.jpg",
-            "social_name": "Download Uganda Gospel Music App"
-        }
-        
-        
-  ]
+    "hide": false,
+    "videourl": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "ad_status": "1",
+    "tiktok_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "twitter_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "website_url": "https://sites.google.com/view/mcfsermons/home",
+    "youtube_url": "https://www.facebook.com/mutundwechristianfellowship",
+    "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
+    "facebook_url": "https://www.youtube.com/@MCFSermons/videos",
+    "linkedin_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
+    "whatsapp_url": "https://eternallifetv.online.church/",
+    "instagram_url": "https://chat.whatsapp.com/DBwxbvhVGJJKZZSNFgm6o1",
+    "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
+    "stream_one_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
+    "stream_two_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
+    "enable_autoplay": true,
+    "stream_five_url": "https://stream.zeno.fm/yxevony7l29uv",
+    "stream_four_url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
+    "stream_one_text": "MCF 98.7FM",
+    "stream_two_text": "MCF Data Saver (AAC+)",
+    "stream_four_text": "MCF2018.Caster.fm",
+    "stream_three_url": "https://gospelradio.256cloud.com/listen/mcf_backupstream/radio.mp3",
+    "stream_one_active": true,
+    "stream_three_text": "MCF(OGG+) Ultra Saver(Wont record)",
+    "stream_two_active": true,
+    "interstitial_ad_id": "ca-app-pub-9523725970329735/2242968000",
+    "stream_four_active": true,
+    "stream_three_active": true,
+    "interstitial_frequency_play_pause": 4
 }
