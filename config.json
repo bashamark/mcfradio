@@ -1,18 +1,18 @@
 {
-    "ad_status": "1",
+    "ad_status": "0",
     "tiktok_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
     "twitter_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
     "website_url": "https://mcfchat-469b5.web.app",
     "youtube_url": "https://www.facebook.com/mutundwechristianfellowship",
-    "banner_ad_id": "ca-app-pub-9523725970329735/1582777730",
+    "banner_ad_id": "ca-app-pub-9523725970329735/1582777000",
     "facebook_url": "https://www.youtube.com/@MCFSermons/videos",
     "linkedin_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
-    "native_ad_id": "ca-app-pub-9523725970329735/3418501959",
+    "native_ad_id": "ca-app-pub-9523725970329735/3418501000",
     "whatsapp_url": "https://eternallifetv.online.church/",
     "instagram_url": "https://chat.whatsapp.com/L23RyKt5MRw4gi4cLGSntv",
     "one_signal_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2",
-    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437642",
-    "stream_one_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
+    "app_open_ad_id": "ca-app-pub-9523725970329735/4458437000",
+    "stream_one_url": "https://c22.radioboss.fm/stream/40",
     "stream_two_url": "http://84.8.135.255/listen/mcf_casterfm/radio.mp3",
     "enable_autoplay": true,
     "stream_five_url": "https://stream.zeno.fm/yxevony7l29uv",
@@ -29,4 +29,5 @@
     "stream_three_active": true,
     "interstitial_frequency_play_pause": 4
 }
+
 
