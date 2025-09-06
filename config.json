@@ -17,7 +17,7 @@
     "enable_autoplay": true,
     "stream_five_url": "https://stream.zeno.fm/yxevony7l29uv",
     "stream_four_url": "http://51.83.134.192/s79fbbb432/listen",
-    "stream_one_text": "MCF 98.7FM",
+    "stream_one_text": "EMC Radio",
     "stream_two_text": "MCF Data Saver (AAC+)",
     "stream_four_text": "MCF 98.7fm (streams.co)",
     "stream_three_url": "https://gospelradio.256cloud.com/listen/mcf_backupstream/radio.mp3",
@@ -29,5 +29,6 @@
     "stream_three_active": true,
     "interstitial_frequency_play_pause": 4
 }
+
 
 
